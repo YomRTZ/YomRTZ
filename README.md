@@ -13,7 +13,7 @@
 
 - 🤝 I’m seeking assistance in **learning about new technologies and tools.**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **rediettedila5@gmail.com**
 
